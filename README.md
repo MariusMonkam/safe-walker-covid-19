@@ -25,6 +25,7 @@ cd NameOfYourProject
 npm start # you can also use: expo start
 ```
 To create your navigation with react-navigation follow this [guide](https://reactnavigation.org/docs/getting-started)
+More about starting a React-native project with expo [here ](https://reactnative.dev/docs/getting-started)
 
 ##Here are some screenshoots of the app
 
@@ -32,6 +33,7 @@ To create your navigation with react-navigation follow this [guide](https://reac
 ![Here is the form screen where user will enter his current symptom](https://github.com/MariusMonkam/safe-walker-covid-19/blob/master/assets/Screenshot_20200320_212810_host.exp_.exponent-473x1024.jpg)
 ![List of symptom to be checked by user ](https://github.com/MariusMonkam/safe-walker-covid-19/blob/master/assets/Screenshot_20200320_212924_host.exp_.exponent-473x1024.jpg)
 ![Picking the current location of the user ](https://github.com/MariusMonkam/safe-walker-covid-19/blob/master/assets/Screenshot_20200321_224248_host.exp.exponent.jpg)
+![The picked location of the user display on the screen ](https://github.com/MariusMonkam/safe-walker-covid-19/blob/master/assets/Screenshot_20200321_235332_host.exp.exponent.jpg)
 
 
 
@@ -39,8 +41,7 @@ To create your navigation with react-navigation follow this [guide](https://reac
 
 
 
-More about starting a React-native project with expo [here ](https://reactnative.dev/docs/getting-started)
 
-Here are few screenshoot of the project
-![HomeScreen] (http://www.webdev.poziral.com/wp-content/uploads/2020/03/Screenshot_20200320_212753_host.exp_.exponent-e1584754144849.jpg)
+
+
 
