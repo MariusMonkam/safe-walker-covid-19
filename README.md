@@ -21,7 +21,8 @@ Then run the following commands to create a new React Native project called "Nam
 ```expo init `NameOfYourProjet
 
 cd NameOfYourProject
-npm start # you can also use: expo start```
+npm start # you can also use: expo start
+```
 
 More about starting a React-native project with expo [here ](https://reactnative.dev/docs/getting-started)
 
