@@ -19,11 +19,16 @@ To start the project run the following command and make sure you have ```node 10
 Then run the following commands to create a new React Native project called "NameOfYourProject"
 
 ```javascript 
-expo init `NameOfYourProjet
+expo init NameOfYourProjet
 
 cd NameOfYourProject
 npm start # you can also use: expo start
 ```
+To create your navigation with react-navigation follow this [guide](https://reactnavigation.org/docs/getting-started)
+
 
 More about starting a React-native project with expo [here ](https://reactnative.dev/docs/getting-started)
+
+Here are few screenshoot of the project
+![HomeScreen] (http://www.webdev.poziral.com/wp-content/uploads/2020/03/Screenshot_20200320_212753_host.exp_.exponent-e1584754144849.jpg)
 
