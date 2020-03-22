@@ -7,10 +7,11 @@ The current situation is affecting the world economic, people life and business 
 
  [Open it in Expo]( https://expo.io/--/to-exp/exp%3A%2F%2Fexp.host%2F%40cloudmonde%2Fsafe_walker_covid_19)
        
- Download Expo for [Android] at (http://bit.ly/2bZq5ew) or [iOS] at (http://apple.co/2c6HMtp)
+ Download Expo for [Android](http://bit.ly/2bZq5ew) or [iOS](http://apple.co/2c6HMtp)
  
  The developement of the project just started.
  we are using on the frontend React and React-native , SQLite as database but this is just for the demo purpose  we will move to more secure database. We also use react-navigation to create the navigation.
  
-To start the project run the following command make sure you have node
+To start the project run the following command make sure you have ```node 10 LTS``` installed
+```npm install -g expo-cli```
 
