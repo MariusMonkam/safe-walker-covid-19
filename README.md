@@ -26,12 +26,13 @@ npm start # you can also use: expo start
 ```
 To create your navigation with react-navigation follow this [guide](https://reactnavigation.org/docs/getting-started)
 
-Here are some screenshoot of the app
+##Here are some screenshoots of the app
+
 ![Home Screen here will be display usefull information for the user after he have entered his symptom](https://github.com/MariusMonkam/safe-walker-covid-19/blob/master/assets/Screenshot_20200320_212753_host.exp_.exponent-473x1024.jpg)
 ![Here is the form screen where user will enter his current symptom](https://github.com/MariusMonkam/safe-walker-covid-19/blob/master/assets/Screenshot_20200320_212810_host.exp_.exponent-473x1024.jpg)
 ![List of symptom to be checked by user ](https://github.com/MariusMonkam/safe-walker-covid-19/blob/master/assets/Screenshot_20200320_212924_host.exp_.exponent-473x1024.jpg)
 ![Picking the current location of the user ](https://github.com/MariusMonkam/safe-walker-covid-19/blob/master/assets/Screenshot_20200321_224248_host.exp.exponent.jpg)
-![The user enter his symptoms and pick his location the click save](https://github.com/MariusMonkam/safe-walker-covid-19/blob/master/assets/Screenshot_20200321_235332_host.exp.exponent.jpg)
+
 
 
 
